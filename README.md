@@ -16,8 +16,13 @@ Based on PHP library for Apache Solr : [solr-php-client](http://code.google.com/
 * Compatibility : Magento >= 1.5
 
 
+
 Configuration
 -------------
 
 * Config
  * System > Configuration > Catalog > Solr Search Engine
+ 
+ Credits
+-------------
+<a href=https://www.magentoextensions.org/>Magento Extensions</a>
