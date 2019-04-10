@@ -25,4 +25,4 @@ Configuration
  
  Credits
 -------------
-<a href=https://www.magentoextensions.org/>Magento Extensions</a>
+<a href=https://www.magentoextensions.org/>Top Magento Modules</a>
